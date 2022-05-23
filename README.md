@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Yaswanth Teja Yarlagadda</h1>
 <h3 align="center">A passionate full stack learner from India</h3>
