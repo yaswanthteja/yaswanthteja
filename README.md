@@ -5,7 +5,8 @@
 <p align="left"> <a href="https://twitter.com/yaswanthteja02" target="blank"><img src="https://img.shields.io/twitter/follow/yaswanthteja02?logo=twitter&style=for-the-badge" alt="yaswanthteja02" /></a> </p>
 
 <img align="right" src="https://github.com/yaswanthteja/Resources/blob/main/developer.gif" alt="Coder GIF" width="500" height="400">
-### Blogs posts
+
+
 - 🔭 I’m currently working on **ML**
 
 - 👯 I’m looking to collaborate on **Opensource**
@@ -14,14 +15,13 @@
 
 - 📝 I regularly write articles on [https://dev.to/yaswanthteja](https://dev.to/yaswanthteja)
 
-- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
+- 💬 I love connecting with different people 
+so if you want any help, I'll be happy to meet you more! :) ;
 
 - 💬 Ask me about **python**
 -  I love to watch Cartoons
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
