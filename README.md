@@ -21,8 +21,7 @@
 so if you want any help, I'll be happy to meet you more! :) ;
 
 - 💬 Ask me about **python**
--  I love to watch Cartoons
-
+-  I love to watch Anime
 
 
 <h3 align="left">Connect with me:</h3>
