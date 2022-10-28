@@ -18,7 +18,8 @@
 - 📝 I regularly write articles on [https://dev.to/yaswanthteja](https://dev.to/yaswanthteja)
 
 - 💬 I love connecting with different people 
-so if you want any help, I'll be happy to meet you more! :) ;
+so if you want any help
+I'll be happy to meet you more! :) 
 
 - 💬 Ask me about **python**
 -  I love to watch Anime
