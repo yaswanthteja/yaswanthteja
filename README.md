@@ -1,13 +1,25 @@
 
-<h1 align="center">Hi 👋, I'm Yaswanth Teja Yarlagadda</h1>
-
-<h3 align="center">A passionate Full Stack Data Science Learner from India </h3>
+<h1 align="center">Howdy 👋, I'm Yaswanth Teja Yarlagadda</h1>
 
 
-<p align="left"> <a href="https://twitter.com/yaswanthteja02" target="blank"><img src="https://img.shields.io/twitter/follow/yaswanthteja02?logo=twitter&style=for-the-badge" alt="yaswanthteja02" /></a> </p>
+<p>
+  <em>
+<b>I am a  computer Science grad from India.</b> <br>
+<b>A friendly Neighbourhood Developer</b>🤓 and a <b>Learning Enthusiast,</b>&nbsp;  </br>who is <b>obsessed</b>
+ with the idea of <b>improving</b> and wants a <b>platform</b> to 
+ <b>grow</b> 🚀and 
+ <b>excel</b> 🏅 <br>
+ </em>
+  
+</p>
+<br>
 
-<img align="right" src="https://github.com/yaswanthteja/Resources/blob/main/developer.gif" alt="Coder GIF" width="500" height="400">
 
+<img align="right" src="https://github.com/yaswanthteja/Resources/blob/main/developer.gif" alt="Coder GIF"  align="right" width="400">
+
+
+
+- ♾️ I’m *currently* **sleeping** 😴 or *working* on my **laptop** 
 
 - 🔭 I’m currently working on **ML**
 
@@ -15,15 +27,17 @@
 
 - 🤝 I’m looking for help with **internship opportunities**
 
-- 📝 I regularly write articles on [https://dev.to/yaswanthteja](https://dev.to/yaswanthteja)
+- 📝 I regularly write articles on [Dev](https://dev.to/yaswanthteja)
 
-- 💬 I love connecting with different people 
-so if you want any help
-I'll be happy to meet you more! :) 
+- 💬 I love to connect with different people and exchange ideas :) 
 
 - 💬 Ask me about **python**
--  I love to watch Anime
 
+- ♾️ I love to watch Anime
+
+- 🔄️**Fun fact:** My *smartness* 💡 lies in my *laziness* 😴 </br>
+
+<b>If you're still reading, why not follow me ?? Let's Connect !!</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -88,4 +102,4 @@ I'll be happy to meet you more! :)
 
 ---
 
-![Dino](https://github.com/yaswanthteja/Resources/blob/main/dino1.gif)
+<img  src="https://github.com/yaswanthteja/Resources/blob/main/dino1.gif" alt="Coder GIF" height="450" width="850">
