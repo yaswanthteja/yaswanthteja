@@ -6,7 +6,7 @@
   <em>
 <b>I am a  computer Science grad from India.</b> <br>
 <b>A friendly Neighbourhood Developer</b>🤓 and a <b>Learning Enthusiast,</b>&nbsp;  </br>who is <b>obsessed</b>
- with the idea of <b>improving</b> and wants a <b>platform</b> to 
+ with the idea of <b>improving</b> and wants  to 
  <b>grow</b> 🚀and 
  <b>excel</b> 🏅 <br>
  </em>
