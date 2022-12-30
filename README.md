@@ -19,27 +19,26 @@
 
 
 
-- ♾️ I’m *currently* **sleeping** 😴 or *working* on my **laptop** 
+### ⚡️ Currently ⚡️
+I’m **currently**
 
-- 🔭 I’m currently working on **ML**
-
+- ♾️ **sleeping** 😴 or *working* on my **laptop** 
+- 🔭  working on **ML**
 - 👯 I’m looking to collaborate on **Opensource**
-
-- 🤝 I’m looking for help with **internship opportunities**
-
-- 📝 I regularly write articles on [Dev](https://dev.to/yaswanthteja)
-
-- 💬 I love to connect with different people and exchange ideas :) 
-
-- 💬 Ask me about **python**
+- 🎃 Brushing up on data  skills using Python and sql
+- 💬 Ask me about **python**,**sql**,**Machine Learning**
 
 - ♾️ I love to watch Anime
 
 - 🔄️**Fun fact:** My *smartness* 💡 lies in my *laziness* 😴 </br>
+- 
+### 📚 Projects & Guides 📚
+- Checkout them from here
 
-<b>If you're still reading, why not follow me ?? Let's Connect !!</b>
+### <b> If you're still reading, why not follow me ?? Let's Connect 
+- 💬 I love to connect with different people and exchange ideas :) !!</b>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 🙌🏻 Connect with Me:</h3>
 
 - [Linkedin](https://linkedin.com/in/yaswanthteja)
 - [Dev.to (Blog)](https://dev.to/yaswanthteja) 
@@ -103,3 +102,7 @@
 ---
 
 <img  src="https://github.com/yaswanthteja/Resources/blob/main/dino1.gif" alt="Coder GIF" height="450" width="850">
+
+
+
+
