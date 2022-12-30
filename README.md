@@ -15,12 +15,14 @@
 <br>
 
 
-<img align="right" src="https://github.com/yaswanthteja/Resources/blob/main/developer.gif" alt="Coder GIF"  align="right" width="400">
+
+
+<img align="right" src= "https://user-images.githubusercontent.com/93423367/210097822-d1fd437a-0e6e-4d96-8fb4-72ffb0f2d895.gif" alt="Coder GIF"  align="right" width="450">
 
 
 
-### ⚡️ Currently ⚡️
-I’m **currently**
+### ⚡️**I'm** Currently ⚡️
+
 
 - ♾️ **sleeping** 😴 or *working* on my **laptop** 
 - 🔭  working on **ML**
@@ -31,11 +33,11 @@ I’m **currently**
 - ♾️ I love to watch Anime
 
 - 🔄️**Fun fact:** My *smartness* 💡 lies in my *laziness* 😴 </br>
-- 
+
 ### 📚 Projects & Guides 📚
 - Checkout them from here
 
-### <b> If you're still reading, why not follow me ?? Let's Connect 
+### <b>📖 If you're still reading, why not follow me ?? Let's Connect ✖️🌐
 - 💬 I love to connect with different people and exchange ideas :) !!</b>
 
 <h3 align="left"> 🙌🏻 Connect with Me:</h3>
@@ -101,8 +103,8 @@ I’m **currently**
 
 ---
 
-<img  src="https://github.com/yaswanthteja/Resources/blob/main/dino1.gif" alt="Coder GIF" height="450" width="850">
 
 
 
+<img  src="https://user-images.githubusercontent.com/93423367/210098163-ec0d8f89-bb1d-46bf-a97b-5d1c8877fc9f.gif" alt="Coder GIF" height="450" width="850">
 
