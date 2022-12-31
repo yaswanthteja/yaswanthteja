@@ -38,7 +38,7 @@
 - Checkout them from here
 
 ### <b>📖 If you're still reading, why not follow me ?? Let's Connect ✖️🌐
-- 💬 I love to connect with different people and exchange ideas :) !!</b>
+- 💬 I love to connect with  people and exchange ideas :) !!</b>
 
 <h3 align="left"> 🙌🏻 Connect with Me:</h3>
 
