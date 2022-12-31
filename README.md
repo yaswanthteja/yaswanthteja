@@ -45,7 +45,7 @@
 - [Linkedin](https://linkedin.com/in/yaswanthteja)
 - [Dev.to (Blog)](https://dev.to/yaswanthteja) 
 - [Twitter](https://twitter.com/yaswanthteja02)
-- [Youtube]((https://www.youtube.com/@techy2950))
+- [Youtube](https://www.youtube.com/@techy2950)
 - [Kaggle](https://www.kaggle.com/yaswanthteja02)
 
 
