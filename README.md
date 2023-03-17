@@ -1,19 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-<h1 align="center">Howdy 👋, I'm Yaswanth Teja Yarlagadda</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Yaswanth+Teja+Yarlagadda;I'm+from+India;I'm+a+Computer+Science+Graduate+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<p>
-  <em>
-<b>I am a  computer Science grad from India.</b> <br>
-<b>A friendly Neighbourhood Developer</b>🤓 and a <b>Learning Enthusiast,</b>&nbsp;  </br>who is <b>obsessed</b>
- with the idea of <b>improving</b> and wants  to 
- <b>grow</b> 🚀and 
- <b>excel</b> 🏅 <br>
- </em>
-  
-</p>
-<br>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
 
 
@@ -107,4 +98,12 @@
 
 
 <img  src="https://user-images.githubusercontent.com/93423367/210098163-ec0d8f89-bb1d-46bf-a97b-5d1c8877fc9f.gif" alt="Coder GIF" height="450" width="850">
+
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yaswanthteja}/count.svg" /></p> 
+<br>
+</div>
 
