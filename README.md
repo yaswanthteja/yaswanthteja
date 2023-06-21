@@ -8,8 +8,8 @@
 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/yaswanthteja)
-<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=ndleah&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
-<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/ndleah?color=971901&logo=githubb&label=FOLLOWERS"/>
+<img alt="VISITORS" src="https://komarev.com/ghpvc/?username=yaswanthteja&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
+<img alt="FOLLOWERS" src="https://img.shields.io/github/followers/yaswanthteja?color=971901&logo=githubb&label=FOLLOWERS"/>
 <img align="right" src= "https://user-images.githubusercontent.com/93423367/210097822-d1fd437a-0e6e-4d96-8fb4-72ffb0f2d895.gif" alt="Coder GIF"  align="right" width="450">
 
 
