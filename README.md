@@ -27,11 +27,14 @@
 
 - 🔄️**Fun fact:** My *smartness* 💡 lies in my *laziness* 😴 </br>
 
+
+  
 ### 📚 Projects & Guides 📚
 
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/yaswanthteja?tab=repositories)
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/yaswanthteja)
 - Checkout them from here
+  
 ### <b>📖 If you're still reading, why not follow me ?? Let's Connect ✖️🌐
 - 💬 I love to connect with  people and exchange ideas :) !!</b>
 
@@ -76,6 +79,8 @@
 
 
 
+<a align= "center" href="https://github.com/yaswanthteja">
+<img alt= "stats card" height="200px" width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanthteja&theme=radical">
 
 
 
@@ -84,8 +89,12 @@
 <details>
   <summary>:chart_with_upwards_trend:GitHub Profile Stats</summary>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yaswanthteja&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthteja&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
+
+  <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=yaswanthteja&layout=compact&count_private=true&theme=radical&show_icons=true" />
+  
+  <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthteja&layout=compact&theme=radical&langs_count=6" alt="GitHub Top-Langs"  />
+  
+
   <br/>
  
 </details>
