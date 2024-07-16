@@ -20,8 +20,8 @@
 - ♾️ **sleeping** 😴 or *working* on my **laptop** 
 - 🔭  working on **ML**
 - 👯 I’m looking to collaborate on **Opensource**
-- 🎃 Brushing up on data  skills using Python and sql
-- 💬 Ask me about **python**,**sql**,**Machine Learning**
+- 🎃 Brushing up on data  skills using Python and SQL
+- 💬 Ask me about **Python**,**SQL**,**Machine Learning**
 
 - ♾️ I love to watch Anime
 
