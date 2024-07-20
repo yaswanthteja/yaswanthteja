@@ -18,8 +18,8 @@
 
 
 - ♾️ **sleeping** 😴 or *working* on my **laptop** 
-- 🔭  working on **ML**
-- 👯 I’m looking to collaborate on **Opensource**
+- 🌱 I’m currently learning Excel and Power Bi
+- 👯 I’m looking to collaborate on **data science and Opensource projects**
 - 🎃 Brushing up on data  skills using Python and SQL
 - 💬 Ask me about **Python**,**SQL**,**Machine Learning**
 
@@ -107,6 +107,7 @@
 
 
 
+<i>Thanks for visiting my profile.</i>
 
 <img  src="https://user-images.githubusercontent.com/93423367/210098163-ec0d8f89-bb1d-46bf-a97b-5d1c8877fc9f.gif" alt="Coder GIF" height="450" width="850">
 
