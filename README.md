@@ -1,3 +1,4 @@
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Yaswanth+Teja+Yarlagadda;I'm+from+India;I'm+a+Computer+Science+Graduate+;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -14,6 +15,7 @@
 
 
 
+
 ### ⚡️**I'm** Currently ⚡️
 
 
@@ -27,6 +29,12 @@
 
 - 🔄️**Fun fact:** My *smartness* 💡 lies in my *laziness* 😴 </br>
 
+<be> </br>
+
+The green dots on my GitHub profile represent my journey 🏃‍♀️ - From being curious to becoming a Data Scientist. This is where you can view my portfolio. Besides GitHub, You can find me on [Twitter](https://x.com/yaswanthteja_). I'm always ready to collaborate for  open-source and community activities or deliver hands-on sessions. My favourite linear: “If You Are A Techie, Your Home Page Should Be GitHub, Not Instagram.”
+<be> </br>
+
+<be> </br>
 
   
 ### 📚 Projects & Guides 📚
@@ -36,16 +44,6 @@
 - Checkout them from here
 - [project]()
   
-### <b>📖 If you're still reading, why not follow me ?? Let's Connect ✖️🌐
-- 💬 I love to connect with  people and exchange ideas :) !!</b>
-
-<h3 align="left"> 🙌🏻 Connect with Me:</h3>
-
-- [Linkedin](https://linkedin.com/in/yaswanthteja)
-- [Dev.to (Blog)](https://dev.to/yaswanthteja) 
-- [Twitter](https://twitter.com/yaswanthteja02)
-- [Youtube](https://www.youtube.com/@techy2950)
-- [Kaggle](https://www.kaggle.com/yaswanthteja02)
 
 
 
@@ -105,6 +103,17 @@
 </details>
 
 ---
+
+### <b>📖 If you're still reading, why not follow me ?? Let's Connect ✖️🌐
+- 💬 I love to connect with  people and exchange ideas :) !!</b>
+
+<h3 align="left"> 🙌🏻 Connect with Me:</h3>
+
+- [Linkedin](https://linkedin.com/in/yaswanthteja)
+- [Dev.to (Blog)](https://dev.to/yaswanthteja) 
+- [Twitter](https://twitter.com/yaswanthteja02)
+- [Youtube](https://www.youtube.com/@techy2950)
+- [Kaggle](https://www.kaggle.com/yaswanthteja02)
 
 
 
