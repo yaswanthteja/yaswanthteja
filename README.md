@@ -104,10 +104,8 @@ The green dots on my GitHub profile represent my journey 🏃‍♀️ - From be
 
 ---
 
-### <b>📖 If you're still reading, why not follow me ?? Let's Connect ✖️🌐
+### <b>📖 If you're still reading, Let's Connect ✖️🌐
 - 💬 I love to connect with  people and exchange ideas :) !!</b>
-
-<h3 align="left"> 🙌🏻 Connect with Me:</h3>
 
 - [Linkedin](https://linkedin.com/in/yaswanthteja)
 - [Dev.to (Blog)](https://dev.to/yaswanthteja) 
