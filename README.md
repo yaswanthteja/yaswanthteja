@@ -1,11 +1,23 @@
 
+
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=ADFF2F&size=40&width=700&height=80&lines=Welcome+To+MY+Profile"/>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yaswanthteja}/count.svg" /></p> 
+<br>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Yaswanth+Teja+Yarlagadda;I'm+from+India;I'm+a+Computer+Science+Graduate+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+
 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/yaswanthteja)
@@ -15,6 +27,9 @@
 
 
 
+ <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%>  About Me:
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist👨‍🏫+;Data+Analyst+📊;AI+Learner🛠️;A+Coder+💻;)](https://git.io/typing-svg)
 
 ### ⚡️**I'm** Currently ⚡️
 
@@ -30,12 +45,14 @@
 - 🔄️**Fun fact:** My *smartness* 💡 lies in my *laziness* 😴 </br>
 
 <be> </br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
 
 The green dots on my GitHub profile represent my journey 🏃‍♀️ - From being curious to becoming a Data Scientist. This is where you can view my [portfolio](https://github.com/yaswanthteja/Portfolio). Besides GitHub, You can find me on [Twitter](https://x.com/yaswanthteja_). I'm always ready to collaborate for  open-source and community activities or deliver hands-on sessions. My favourite linear: “If You Are A Techie, Your Home Page Should Be GitHub, Not Instagram.”
 <be> </br>
 
 <be> </br>
 
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
   
 ### 📚 Projects & Guides 📚
 
@@ -104,6 +121,8 @@ The green dots on my GitHub profile represent my journey 🏃‍♀️ - From be
 
 ---
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
+
 ### <b>📖 If you're still reading, Let's Connect ✖️🌐
 - 💬 I love to connect with  people and exchange ideas :) !!</b>
 
@@ -113,17 +132,19 @@ The green dots on my GitHub profile represent my journey 🏃‍♀️ - From be
 - [Youtube](https://www.youtube.com/@techy2950)
 - [Kaggle](https://www.kaggle.com/yaswanthteja02)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
 
 
-<i>Thanks for visiting my profile.</i>
+### ✍️ Quote of The Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
 
 <img  src="https://user-images.githubusercontent.com/93423367/210098163-ec0d8f89-bb1d-46bf-a97b-5d1c8877fc9f.gif" alt="Coder GIF" height="450" width="850">
 
 
 
+
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yaswanthteja}/count.svg" /></p> 
-<br>
-</div>
+<img height="220" alt="Thanks for visiting my profile" width="200%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
