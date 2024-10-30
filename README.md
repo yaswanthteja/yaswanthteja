@@ -4,11 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=ADFF2F&size=40&width=700&height=80&lines=Welcome+To+MY+Profile"/>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yaswanthteja}/count.svg" /></p> 
-<br>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
@@ -139,6 +134,13 @@ The green dots on my GitHub profile represent my journey 🏃‍♀️ - From be
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yaswanthteja}/count.svg" /></p> 
+<br>
+</div>
 
 <img  src="https://user-images.githubusercontent.com/93423367/210098163-ec0d8f89-bb1d-46bf-a97b-5d1c8877fc9f.gif" alt="Coder GIF" height="450" width="850">
 
