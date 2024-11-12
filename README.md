@@ -40,7 +40,7 @@
 - 🔄️**Fun fact:** My *smartness* 💡 lies in my *laziness* 😴 </br>
 
 <be> </br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="500px">
 
 The green dots on my GitHub profile represent my journey 🏃‍♀️ - From being curious to becoming a Data Scientist. This is where you can view my [portfolio](https://github.com/yaswanthteja/Portfolio). Besides GitHub, You can find me on [Twitter](https://x.com/yaswanthteja_). I'm always ready to collaborate for  open-source and community activities or deliver hands-on sessions. My favourite linear: “If You Are A Techie, Your Home Page Should Be GitHub, Not Instagram.”
 <be> </br>
