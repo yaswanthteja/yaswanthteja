@@ -18,7 +18,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/yaswanthteja)
 <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=yaswanthteja&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
 <img alt="FOLLOWERS" src="https://img.shields.io/github/followers/yaswanthteja?color=971901&logo=githubb&label=FOLLOWERS"/>
-<img align="right" src= "https://user-images.githubusercontent.com/93423367/210097822-d1fd437a-0e6e-4d96-8fb4-72ffb0f2d895.gif" alt="Coder GIF"  align="right" width="450">
+<img align="right" src= "https://user-images.githubusercontent.com/93423367/210097822-d1fd437a-0e6e-4d96-8fb4-72ffb0f2d895.gif" alt="Coder GIF"  align="right" width="350">
 
 
 
@@ -40,7 +40,7 @@
 - 🔄️**Fun fact:** My *smartness* 💡 lies in my *laziness* 😴 </br>
 
 <be> </br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="500px">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
 
 The green dots on my GitHub profile represent my journey 🏃‍♀️ - From being curious to becoming a Data Scientist. This is where you can view my [portfolio](https://github.com/yaswanthteja/Portfolio). Besides GitHub, You can find me on [Twitter](https://x.com/yaswanthteja_). I'm always ready to collaborate for  open-source and community activities or deliver hands-on sessions. My favourite linear: “If You Are A Techie, Your Home Page Should Be GitHub, Not Instagram.”
 <be> </br>
