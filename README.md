@@ -30,7 +30,7 @@
 
 
 - ♾️ **sleeping** 😴 or *working* on my **laptop** 
-- 🌱 I’m currently learning Excel and Power Bi
+- 🌱 I’m currently learning Agentic Ai
 - 👯 I’m looking to collaborate on **data science and Opensource projects**
 - 🎃 Brushing up on data  skills using Python and SQL
 - 💬 Ask me about **Python**,**SQL**,**Machine Learning**
